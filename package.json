@@ -1,0 +1,23 @@
+{
+  "name": "timeseries-sum",
+  "version": "0.0.1",
+  "author": "Daniel Sauble",
+  "description": "Given a set of timeseries data, sum values over the given interval",
+  "keywords": [
+    "timeseries",
+    "sum",
+    "interval"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "browserify": "*",
+    "grunt": "*",
+    "grunt-browserify": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-qunit": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/djsauble/timeseries-sum.git"
+  }
+}
